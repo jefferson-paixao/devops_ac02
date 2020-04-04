@@ -1,3 +1,3 @@
 class Operacoes():
-    def multiplicacao(self,valor1,valor2):
-        return valor1*valor2
+    def multiplicacao(self,val1,val2):
+        return val1*val2
